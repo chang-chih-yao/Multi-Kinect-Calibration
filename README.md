@@ -9,3 +9,12 @@
 透過socket傳輸彼此的關節點座標給另一台。
 但由於兩台kinect都不知道彼此相對位置，所以需要先校正(calibration)
 
+Two Kinect Calibration：
+- Use depth camera(use body joints) -> Calculate extrinsic Mat
+- Use color camera(RGB image)       -> Chessboard calibration
+- ICP
+
+Use depth camera：
+
+Use color camera：
+
