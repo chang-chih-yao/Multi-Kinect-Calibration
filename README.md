@@ -16,5 +16,10 @@ Two Kinect Calibration：
 
 Use depth camera：
 
+![image](https://github.com/chang-chih-yao/Multi-Kinect-Calibration/blob/master/depth%20camera.JPG)
+
 Use color camera：
 
+![image](https://github.com/chang-chih-yao/Multi-Kinect-Calibration/blob/master/chessboard_calibration_1.JPG)
+
+![image](https://github.com/chang-chih-yao/Multi-Kinect-Calibration/blob/master/chessboard_calibration_2.JPG)
